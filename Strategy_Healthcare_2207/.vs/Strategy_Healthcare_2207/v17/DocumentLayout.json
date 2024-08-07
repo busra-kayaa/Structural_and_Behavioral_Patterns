@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\iappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\iappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|c:\\users\\busra\\desktop\\221229007_b\u00FC\u015Fra_kaya (7)\\strategy_healthcare_2207\\strategy_healthcare_2207\\appointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\appointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\emergencyappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\emergencyappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\regularappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\regularappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\strategy_healthcare_2207\\routineappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3C8771-AE83-46D4-80DC-8FF748EB2698}|Strategy_Healthcare_2207\\Strategy_Healthcare_2207.csproj|solutionrelative:strategy_healthcare_2207\\routineappointmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppointmentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\IAppointmentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\IAppointmentStrategy.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\IAppointmentStrategy.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\IAppointmentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:33:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\AppointmentContext.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\AppointmentContext.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\AppointmentContext.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\AppointmentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:32:02.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Appointment.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Appointment.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:31:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmergencyAppointmentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\EmergencyAppointmentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\EmergencyAppointmentStrategy.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\EmergencyAppointmentStrategy.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\EmergencyAppointmentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:38:21.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\Program.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Program.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:38:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegularAppointmentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\RegularAppointmentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\RegularAppointmentStrategy.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\RegularAppointmentStrategy.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\RegularAppointmentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:36:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Patient.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\Patient.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Patient.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:36:11.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Doctor.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\Doctor.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:36:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoutineAppointmentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\RoutineAppointmentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy_Healthcare_2207\\RoutineAppointmentStrategy.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\221229007_B\u00FC\u015Fra_Kaya (7)\\Strategy_Healthcare_2207\\Strategy_Healthcare_2207\\RoutineAppointmentStrategy.cs",
+              "RelativeToolTip": "Strategy_Healthcare_2207\\RoutineAppointmentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:37:14.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
